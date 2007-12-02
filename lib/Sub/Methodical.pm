@@ -3,7 +3,7 @@ use warnings;
 
 package Sub::Methodical;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 my %methodical;
 my %wrapped;
@@ -121,7 +121,7 @@ Sub::Methodical - call methods as functions
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head1 SYNOPSIS
 
@@ -250,6 +250,7 @@ L<http://search.cpan.org/dist/Sub-Methodical>
 
 =head1 ACKNOWLEDGEMENTS
 
+Thanks to Ricardo SIGNES for having this idea.
 
 =head1 COPYRIGHT & LICENSE
 
